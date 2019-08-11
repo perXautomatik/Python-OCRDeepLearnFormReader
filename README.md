@@ -26,3 +26,7 @@ batch processing is later relevant
 on exit, stores thought algorithm for next upload
 
 automatic parsing and database update.
+
+technical comment regarding openCV;
+rotary blocks will not be necessary
+--padding variable might be changeable for each field
